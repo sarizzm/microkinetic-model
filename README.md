@@ -42,11 +42,7 @@ https://space.bilibili.com/80446042/channel/seriesdetail?sid=2463662&ctype=0
 
 
 
-欢迎加微信，因为微信群只有七天有效期，拉你入群讨论学习，愿你结交更多学友，不会尽量不要问我，因为我会的不多
+欢迎加微信`xgdzzm`，因为微信群只有七天有效期，拉你入群讨论学习，愿你结交更多学友，不会尽量不要问我，因为我会的不多。
 
-![](.\picture\wx.jpg)
-
-
-
-
+![](https://github.com/sarizzm/microkinetic-model/blob/main/picture/wx.jpg?raw=true)
 
