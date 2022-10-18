@@ -1,0 +1,8 @@
+numpy
+mpmath
+matplotlib
+scipy
+ase == 3.17 ; python_version < "3.5"
+ase ; python_version >= "3.5"
+graphviz
+tqdm

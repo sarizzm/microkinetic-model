@@ -1,10 +1,3 @@
-# microkinetic-model
-microkinetic model of chemical reaction,  微观动力学模型总结
-
-书籍进行更新，是我以前看的最新版，也可以到作者管网去看看有没有再次更新
-
-https://space.bilibili.com/80446042/channel/seriesdetail?sid=2463662&ctype=0
-
 # 1 介绍：
 
 其他信息看完版，最好把catmap 官方说明文档自己看一遍，尤其是自己相关的。
@@ -33,8 +26,10 @@ https://space.bilibili.com/80446042/channel/seriesdetail?sid=2463662&ctype=0
 # 比如：line-H2O, 因为解析的过程 catmap 无法识别line是啥东西，报错
 ```
 
-1. 同一种分子在不同位点，可以分子式一样，会自动识别为不同分子
-2. 如果为气态就不要按照第一种方法，因为气态会调用ase进行识别，ase识别不出来分子也会报错，同时可以借助catmap提供接口，进行相关气态的补充。
+2. 同一种分子在不同位点，可以分子式一样，会自动识别为不同分子
+3. 如果为气态就不要按照第一种方法，因为气态会调用ase进行识别，ase识别不出来分子也会报错，同时可以借助catmap提供接口，进行相关气态的补充。
+
 
 2.2 catmap 源码讲解（有时间的话）
+
 

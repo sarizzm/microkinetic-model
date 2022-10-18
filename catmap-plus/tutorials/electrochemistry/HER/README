@@ -1,0 +1,17 @@
+To run this tutorial, run:
+
+python mkm_job.py
+
+The voltage (in RHE) of this model is specified as a model parameter in HER.mkm much like
+temperature and total pressure.
+
+In addition to the standard production rate and coverage plots, we also plot the directional rates,
+which can be used to calculate exchange current densities for electrochemical products.
+
+Data contained in HER_input.txt was generated calculations performed by Andrew A. Peterson 
+and Joseph H. Montoya.  The ORR tutorial goes into more detail about how one might 
+generate such a file.
+
+Notice that because adsorbate-adsorbate interactions are not in place, the peak of the 
+volcano appears to be near Cu rather than the expected Pt.  This is a necessary aspect 
+of HER to predict the correct peak.  See Skulason et al. (2010)  DOI: 10.1021/jp1048887
