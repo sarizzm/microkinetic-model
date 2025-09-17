@@ -39,6 +39,3 @@ https://space.bilibili.com/80446042/channel/seriesdetail?sid=2463662&ctype=0
 2.2 catmap 源码讲解（有时间的话）
 
 
-
-欢迎加微信`xgdzzm`，因为微信群只有七天有效期，拉你入群讨论学习，愿你结交更多学友，不会尽量不要问我，因为我会的不多。
-
